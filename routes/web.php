@@ -16,3 +16,12 @@ Route::get('/patient-dashboard', [ FrontendController::class, 'showPatientDashPa
 Route::get('/doctor-register', [ FrontendController::class, 'showDoctorRegisterPage' ]) -> name('doctor.reg.page');    
 Route::get('/doctor-dashboard', [ FrontendController::class, 'showDoctorDashPage' ]) -> name('doctor.dash.page'); 
 
+//Route declaration for laravel
+
+
+
+
+
+
+
+
