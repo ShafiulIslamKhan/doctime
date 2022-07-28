@@ -36,3 +36,8 @@ Route::get('/doctor-dashboard', [ FrontendController::class, 'showDoctorDashPage
 
 
 
+
+
+
+
+
