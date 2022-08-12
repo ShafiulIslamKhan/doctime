@@ -40,7 +40,6 @@ class PatientAuthController extends Controller
 
     }
 
-
     /**
      * Patient login 
      */

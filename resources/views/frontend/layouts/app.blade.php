@@ -35,12 +35,12 @@
 		
 			@include('frontend.layouts.header')
 			
+			
 			@section('main')
             @show
 
 		   
 		   
-			
 			@include('frontend.layouts.footer')
 		   
 	        </div>
